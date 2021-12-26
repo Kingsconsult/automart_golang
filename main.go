@@ -7,7 +7,7 @@ import (
 	"github.com/gin-gonic/gin"
 	"automart/database"
 	"automart/middleware"
-	"routes"
+	"automart/routes"
 	"go.mongodb.org/mongo-driver/mongo"
 )
 
